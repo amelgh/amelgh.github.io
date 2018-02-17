@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Amel Ghouila, PhD </title>
+		<title> {{ page.title }}</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -14,11 +14,9 @@
     		</ul>
 		</nav>
 		<div class="container">
-    		<div class="blurb">
-        		<h1>Amel Ghouila, PhD </h1>
-				<p> Launching soon! </p>
-    		</div><!-- /.blurb -->
+    		{{ content }}
 		</div><!-- /.container -->
+		
 		<footer>
     		<ul>
         		<li><a href="mailto:amel.ghouila@gmail.com">Email</a></li>
