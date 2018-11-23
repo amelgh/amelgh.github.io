@@ -1,2 +1,22 @@
-name: Amel Ghouila, PhD
+
+
+# Site settings
+title: amel ghouila, PhD
+email: amel.ghouila@gmail.com
+description1: open science advocate
+description2: women's and girls' empowerment advocate
+description3: bioinformatician
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: AmelGhouila
+github_username:  amelgh
+
+# Build settings
 markdown: kramdown
+
+# For SEO optimization
+gems:
+  - jekyll-seo-tag
+
+# Enable linking to header anchors
+kramdown:
+  auto_ids: true
