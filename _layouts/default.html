@@ -1,28 +1,20 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title> {{ page.title }}</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">About</a></li>
-	        	<li><a href="/Communities">Communities</a></li>
-			<li><a href="/Publications">Publications</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		{{ content }}
-		</div><!-- /.container -->
-		
-		<footer>
-    		<ul>
-        		<li><a href="mailto:amel.ghouila@gmail.com">Email</a></li>
-        		<li><a href="https://twitter.com/AmelGhouila"> Twitter</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
 
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
