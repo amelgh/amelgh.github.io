@@ -29,13 +29,3 @@ I am committed to designing and running different activities aiming to empower y
 
 ***
 ***
-<br>
-
-### Open science activities
-
-{% for comm in site.data.community %}
-- **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
-{% endfor %}
-
-***
-***
