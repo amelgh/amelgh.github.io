@@ -9,11 +9,20 @@ permalink: /community/
 ***
 <br>
 
-I am committed to being an active participant in the open science community. Here is a list of community activities I have been involved with:
+I am committed to designing and running different activities aiming to empower young girls and women and I am also an active participant in the open science community. Here is a list of selected community activities I have been involved with:
 
-{% for comm in site.data.community %}
+### Women and girls empowrement activities
+
+{% for comm in site.data.womenandgirls %}
 - **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
 {% endfor %}
 
 ***
 ***
+<br>
+
+### Open science activities
+
+{% for comm in site.data.community %}
+- **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
+{% endfor %}
