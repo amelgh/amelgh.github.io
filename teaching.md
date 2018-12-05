@@ -14,9 +14,9 @@ permalink: /teaching/
 
 {% for pres in site.data.teaching %}
   {% if pres.role == null %}
-- *{{ pres.talkTitle }}*. <u>{{ pres.talkVenue }}</u>. {{ pres.talkLocation }}. {{ pres.talkDate }}
+- *{{ pres.courseTitle }}*. <u>{{ pres.courseVenue }}</u>. {{ pres.courseLocation }}. {{ pres.courseDate }}
   {% else %}
-- **{{ pres.role }}**. *{{ pres.talkTitle }}*. <u>{{ pres.talkVenue }}</u>. {{ pres.talkLocation }}. {{ pres.talkDate }}
+- **{{ pres.role }}**. *{{ pres.courseTitle }}*. <u>{{ pres.courseVenue }}</u>. {{ pres.courseLocation }}. {{ pres.courseDate }}
   {% endif %}
 {% endfor %}
 
