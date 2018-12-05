@@ -13,13 +13,7 @@ I am committed to designing and running different activities aiming to empower y
 
 ### Women and girls empowrement activities
 
-{% for comm in site.data.womenandgirls %}
-- **{{ comm.role }}**. *{{ comm.activity }}*. {{ comm.date }}
-{% endfor %}
 
-***
-***
-<br>
 
 ### Open science activities
 
