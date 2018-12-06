@@ -6,4 +6,4 @@ exclude_from_nav: true
 ---
 
 
-<img src="/images/TechnovationNationalPitch2017.jpg" alt="Technovation National Pitch, Tunisia 2017" style="width:80%;display:block;margin-left:auto;margin-right:auto">
+<img src="/images/amel_ghouila-994x1024.jpg" alt="Amel Ghouila headshot" style="width:80%;display:block;margin-left:auto;margin-right:auto">

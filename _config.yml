@@ -8,9 +8,9 @@
 # Site settings
 title: Amel Ghouila, PhD
 email: amel.ghouila@gmail.com
-description1: Open Science Enthusiast
-description2: Women's and girls Empowerement Advocate
-description3: Bioinformatics capacity-builder
+description1: Women's Empowerement Advocate
+description2: Open Science Enthusiast
+description3: Capacity Builder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: AmelGhouila 
 github_username: amelgh
