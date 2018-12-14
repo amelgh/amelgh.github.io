@@ -22,6 +22,7 @@ Due to my passion for educating and empowering young women, I founded Technovati
 I am currently based in Tunis, but am fortunate to call *many* places home. I enjoy taking on new challenges and working with people across different backgrounds, cultures, and languages. When I am away from my computer and not busy running workshops, I enjoy spending time with family and friends, travelling, discovering new cultures and food around the world, biking, kayaking, practicing yoga and also spending time with my camera taking portraits and photographing the outdoors. 
 
 <br>
+
 ***
 ***
 <br>
