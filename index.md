@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Personal website for Amel Ghouila, Bioinformatics capacity-builder, H3ABionet, Africa and Technovation Regional Ambassador, Tunisia
+description: Personal website for Amel Ghouila, Bioinformatics capacity-builder, H3ABioNet, Africa and Technovation  Tunisia founder
 exclude_from_nav: true
 ---
 
