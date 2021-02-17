@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: Personal website for Amel Ghouila, Bioinformatics capacity-builder, H3ABioNet, Africa and Technovation  Tunisia founder
+description: Personal website for Amel Ghouila, Bioinformatics capacity-builder, global health facilitator at Exaptive on behalf of the Bill & Melinda Gates Foundation. Former H3ABioNet, Africa and Technovation Tunisia founder.
 exclude_from_nav: true
 ---
 
